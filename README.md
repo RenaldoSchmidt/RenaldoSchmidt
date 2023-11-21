@@ -5,7 +5,7 @@
 - <b>Google Cybersecurity Certificate Projects</b>
   - [Conducting a Security Audit](https://github.com/RenaldoSchmidt/SecurityAudit)
   - [Using NIST CSF to Respond to a Security Incident](https://github.com/RenaldoSchmidt/NISTCSFResponse/tree/main)
-  - [Using Linux Commands to Manage File Permissions]()
+  - [Using Linux Commands to Manage File Permissions](https://github.com/RenaldoSchmidt/LinuxFilePermissions)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
