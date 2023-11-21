@@ -4,7 +4,7 @@
 
 - <b>Google Cybersecurity Certificate Projects</b>
   - [Conducting a Security Audit](https://github.com/RenaldoSchmidt/SecurityAudit)
-  - [Using NIST CSF to Respond to a Security Incident](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Using NIST CSF to Respond to a Security Incident](https://github.com/RenaldoSchmidt/NISTCSFResponse/tree/main)
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
