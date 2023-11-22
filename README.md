@@ -3,12 +3,13 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Google Cybersecurity Certificate Projects</b>
+  - [Creating an Algorithm to Update files in Python](https://github.com/RenaldoSchmidt/PythonFileUpdateAlgorithm/tree/main)
   - [Conducting a Security Audit](https://github.com/RenaldoSchmidt/SecurityAudit)
   - [Using NIST CSF to Respond to a Security Incident](https://github.com/RenaldoSchmidt/NISTCSFResponse/tree/main)
   - [Using Linux Commands to Manage File Permissions](https://github.com/RenaldoSchmidt/LinuxFilePermissions)
   - [Applying Filters to SQL Queries](https://github.com/RenaldoSchmidt/FilteringSQLQueries/tree/main)
   - [Creating a Vulnerability Assessment Report](https://github.com/RenaldoSchmidt/VulnerabilityAssessment/tree/main)
-  - [Creating an Algorithm to Update files in Python]()
+  - [Incident Handlers Journal]()
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
