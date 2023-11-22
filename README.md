@@ -10,7 +10,7 @@
   - [Applying Filters to SQL Queries](https://github.com/RenaldoSchmidt/FilteringSQLQueries/tree/main)
   - [Creating a Vulnerability Assessment Report](https://github.com/RenaldoSchmidt/VulnerabilityAssessment/tree/main)
   - [Incident Handlers Journal](https://github.com/RenaldoSchmidt/IncidentHandlersJournal/tree/main)
-- <b>C# (.NET Desktop Applications)</b>
+- <b>Purchasing Items Online from a Limited Release Using a Scripting Application and Proxy Servers on an AWS EC2 Virtual Machine</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
