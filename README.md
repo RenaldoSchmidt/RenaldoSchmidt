@@ -7,7 +7,7 @@
   - [Using NIST CSF to Respond to a Security Incident](https://github.com/RenaldoSchmidt/NISTCSFResponse/tree/main)
   - [Using Linux Commands to Manage File Permissions](https://github.com/RenaldoSchmidt/LinuxFilePermissions)
   - [Applying Filters to SQL Queries](https://github.com/RenaldoSchmidt/FilteringSQLQueries/tree/main)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Creating a Vulnerability Assessment Report]()
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
