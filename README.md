@@ -10,7 +10,7 @@
   - [Applying Filters to SQL Queries](https://github.com/RenaldoSchmidt/FilteringSQLQueries/tree/main)
   - [Creating a Vulnerability Assessment Report](https://github.com/RenaldoSchmidt/VulnerabilityAssessment/tree/main)
   - [Incident Handlers Journal](https://github.com/RenaldoSchmidt/IncidentHandlersJournal/tree/main)
-- <b>Using a scripting application and proxy servers on an AWS EC2 virtual machine to bypass web application security and purchase a sneaker from a limited release.</b>
+- <b>Using a scripting application and proxy servers on an AWS EC2 virtual machine to purchase a sneaker from a limited release.</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
