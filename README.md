@@ -14,6 +14,9 @@
 - <b>Using a Scripting Application and Proxy Servers on an AWS EC2 Virtual Machine to Purchase Sneakers from a Limited Online Release.</b>
   - [Nike Shoe Bot](https://github.com/RenaldoSchmidt/Botting)
 
+<h2>🔬 Senior Research Project:</h2>
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="RenaldoSchmidt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
