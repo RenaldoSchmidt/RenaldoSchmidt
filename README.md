@@ -15,8 +15,9 @@
   - [Nike Shoe Bot](https://github.com/RenaldoSchmidt/Botting)
 
 <h2>🔬 Senior Research Project:</h2>
-  - [Paper](https://github.com/RenaldoSchmidt/Botting) 
-  <br/>
+
+- <b>The Effects of Saxophone Reed Varieties on Tonal Harmonic Response</b>
+  - [Paper](https://github.com/RenaldoSchmidt/SeniorResearchPaper) 
   - [Presentation](https://github.com/RenaldoSchmidt/ResearchPresentation)
 
 <h2> 🤳 Connect with me:</h2>
