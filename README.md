@@ -17,7 +17,7 @@
 <h2>🔬 Senior Research Project:</h2>
   - [Paper](https://github.com/RenaldoSchmidt/Botting) 
   <br/>
-  - [Presentation](https://github.com/RenaldoSchmidt/Botting)
+  - [Presentation](https://github.com/RenaldoSchmidt/ResearchPresentation)
 
 <h2> 🤳 Connect with me:</h2>
 
