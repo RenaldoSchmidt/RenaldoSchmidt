@@ -15,7 +15,8 @@
   - [Nike Shoe Bot](https://github.com/RenaldoSchmidt/Botting)
 
 <h2>🔬 Senior Research Project:</h2>
-
+  - [Paper](https://github.com/RenaldoSchmidt/Botting)
+  - [Presentation](https://github.com/RenaldoSchmidt/Botting)
 
 <h2> 🤳 Connect with me:</h2>
 
